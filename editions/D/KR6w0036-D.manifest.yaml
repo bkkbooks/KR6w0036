@@ -1,0 +1,1522 @@
+canonical_identifier: bkk:krp/KR6w0036/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0036/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略述法相義
+  identifiers:
+    krp: KR6w0036
+    cbeta: D36n8895
+    cbeta_old_id: D36n8895
+    authorityid: CA0008035
+    json_key: D8895
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D36/D36n8895.xml
+    old_id: D36n8895
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0036_000-D.yaml, hash: 'sha256:a0c38285b095334962c04bf9c5f05e348167052bafb2acccf59cb66da531ba0e'}
+  - {seq: 1, filename: KR6w0036_001-D.yaml, hash: 'sha256:7956872cb60b6ae11ae20b8839eba2e3dc3f703947d8e140b21f8a9f08b90516'}
+  - {seq: 2, filename: KR6w0036_002-D.yaml, hash: 'sha256:85dfbe60df967dccf7765a20fa46383b000cee3f61042a09b52c6c47a4daa977'}
+  - {seq: 3, filename: KR6w0036_003-D.yaml, hash: 'sha256:ff9989d7daa3057f4dd40b980dd926cbae73a9e91e3bcf75bb326856cb58d2af'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0036_000-D.markers.yaml, hash: 'sha256:90af1b1ab9a3c148d0aa5ad61015caf6487666f788e1210c53ba1cfd4196552e'}
+  - {seq: 1, role: markers, filename: assets/KR6w0036_001-D.markers.yaml, hash: 'sha256:7e26cdb58b11e999925e29c425f54605dd1d38e016bd4dd45ed6ea9f73bd61ae'}
+  - {seq: 2, role: markers, filename: assets/KR6w0036_002-D.markers.yaml, hash: 'sha256:6a78e910294784375cb1d11d2af8a027446af87bd1c3e1b65a26432f0ea760d2'}
+  - {seq: 3, role: markers, filename: assets/KR6w0036_003-D.markers.yaml, hash: 'sha256:434e07b6fc9fb66d39005cfa288842138a07f33bad43ca8de0c9f25ad10dfbbb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0036_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0036_D_000-mulu-2
+    span:
+    - front
+    - 195
+    - 195
+  label: 卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0036_D_000-mulu-3
+    span:
+    - front
+    - 195
+    - 195
+  label: 標目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 12322
+  label: 略述法相義卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八識大㫖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-2
+    span:
+    - body
+    - 1391
+    - 1391
+  label: 現等三量
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-3
+    span:
+    - body
+    - 1833
+    - 1833
+  label: 相等四分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-4
+    span:
+    - body
+    - 2269
+    - 2269
+  label: 自共二相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-5
+    span:
+    - body
+    - 2470
+    - 2470
+  label: 三種分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-6
+    span:
+    - body
+    - 2620
+    - 2620
+  label: 諸識所依
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-7
+    span:
+    - body
+    - 2988
+    - 2988
+  label: 諸識生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-8
+    span:
+    - body
+    - 3307
+    - 3307
+  label: 有覆無記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-9
+    span:
+    - body
+    - 3419
+    - 3419
+  label: 無覆無記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-10
+    span:
+    - body
+    - 3971
+    - 3971
+  label: 四無記種
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-11
+    span:
+    - body
+    - 4124
+    - 4124
+  label: 善等三性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-12
+    span:
+    - body
+    - 4404
+    - 4404
+  label: 善等界繫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-13
+    span:
+    - body
+    - 4590
+    - 4590
+  label: 諸識三性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-14
+    span:
+    - body
+    - 4839
+    - 4839
+  label: 六位心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-15
+    span:
+    - body
+    - 8162
+    - 8162
+  label: 心所俱起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-16
+    span:
+    - body
+    - 8494
+    - 8494
+  label: 王所相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-17
+    span:
+    - body
+    - 9378
+    - 9378
+  label: 諸識界繫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-18
+    span:
+    - body
+    - 9426
+    - 9426
+  label: 苦等五受
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-19
+    span:
+    - body
+    - 9609
+    - 9609
+  label: 諸識受俱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-20
+    span:
+    - body
+    - 10146
+    - 10146
+  label: 五果體相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-21
+    span:
+    - body
+    - 10339
+    - 10339
+  label: 頼耶三相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-22
+    span:
+    - body
+    - 10830
+    - 10830
+  label: 我法二執
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-23
+    span:
+    - body
+    - 11302
+    - 11302
+  label: 煩惱所知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-24
+    span:
+    - body
+    - 11748
+    - 11748
+  label: 能遍計識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-25
+    span:
+    - body
+    - 12070
+    - 12070
+  label: 卷中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0036_D_001-mulu-26
+    span:
+    - body
+    - 12070
+    - 12070
+  label: 標目
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 12922
+  label: 略述法相義卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十一色法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-2
+    span:
+    - body
+    - 780
+    - 780
+  label: 能造大種
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-3
+    span:
+    - body
+    - 1020
+    - 1020
+  label: 五種因力
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-4
+    span:
+    - body
+    - 1167
+    - 1167
+  label: 變異因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-5
+    span:
+    - body
+    - 1293
+    - 1293
+  label: 二種造色
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-6
+    span:
+    - body
+    - 1396
+    - 1396
+  label: 瓶等假有
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-7
+    span:
+    - body
+    - 1569
+    - 1569
+  label: 不相離色
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-8
+    span:
+    - body
+    - 1877
+    - 1877
+  label: 大種得名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-9
+    span:
+    - body
+    - 2036
+    - 2036
+  label: 共不共相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-10
+    span:
+    - body
+    - 2253
+    - 2253
+  label: 共變不󷱸
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-11
+    span:
+    - body
+    - 2336
+    - 2336
+  label: 受用細辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-12
+    span:
+    - body
+    - 2477
+    - 2477
+  label: 共不共業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-13
+    span:
+    - body
+    - 2551
+    - 2551
+  label: 不相應行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-14
+    span:
+    - body
+    - 3540
+    - 3540
+  label: 三種成就
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-15
+    span:
+    - body
+    - 3806
+    - 3806
+  label: 命根細辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-16
+    span:
+    - body
+    - 3892
+    - 3892
+  label: 二無心定
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-17
+    span:
+    - body
+    - 4057
+    - 4057
+  label: 六種無為
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-18
+    span:
+    - body
+    - 4281
+    - 4281
+  label: 五位百法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-19
+    span:
+    - body
+    - 4346
+    - 4346
+  label: 蘊等三科
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-20
+    span:
+    - body
+    - 4984
+    - 4984
+  label: 三科因由
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-21
+    span:
+    - body
+    - 5051
+    - 5051
+  label: 六種有漏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-22
+    span:
+    - body
+    - 5360
+    - 5360
+  label: 三種有漏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-23
+    span:
+    - body
+    - 5470
+    - 5470
+  label: 有漏正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-24
+    span:
+    - body
+    - 5743
+    - 5743
+  label: 分極無漏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-25
+    span:
+    - body
+    - 5800
+    - 5800
+  label: 性等三境
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-26
+    span:
+    - body
+    - 6041
+    - 6041
+  label: 三種不隨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-27
+    span:
+    - body
+    - 6208
+    - 6208
+  label: 三通情本
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-28
+    span:
+    - body
+    - 6366
+    - 6366
+  label: 性等同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-29
+    span:
+    - body
+    - 6455
+    - 6455
+  label: 二三合等
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-30
+    span:
+    - body
+    - 6613
+    - 6613
+  label: 三藏伽陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-31
+    span:
+    - body
+    - 6714
+    - 6714
+  label: 四分種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-32
+    span:
+    - body
+    - 6796
+    - 6796
+  label: 因等四緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-33
+    span:
+    - body
+    - 7237
+    - 7237
+  label: 種子二緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-34
+    span:
+    - body
+    - 7310
+    - 7310
+  label: 因果同時
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-35
+    span:
+    - body
+    - 7363
+    - 7363
+  label: 因果異時
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-36
+    span:
+    - body
+    - 7395
+    - 7395
+  label: 名言種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-37
+    span:
+    - body
+    - 7635
+    - 7635
+  label: 執非執受
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-38
+    span:
+    - body
+    - 7809
+    - 7809
+  label: 十二因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-39
+    span:
+    - body
+    - 8453
+    - 8453
+  label: 無明細辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-40
+    span:
+    - body
+    - 8661
+    - 8661
+  label: 十一殊勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-41
+    span:
+    - body
+    - 8846
+    - 8846
+  label: 行支細辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-42
+    span:
+    - body
+    - 8910
+    - 8910
+  label: 五種熏󷳥
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-43
+    span:
+    - body
+    - 8981
+    - 8981
+  label: 識等次敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-44
+    span:
+    - body
+    - 9164
+    - 9164
+  label: 愛取潤業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-45
+    span:
+    - body
+    - 9239
+    - 9239
+  label: 潤生相貌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-46
+    span:
+    - body
+    - 9331
+    - 9331
+  label: 中有愛潤
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-47
+    span:
+    - body
+    - 9430
+    - 9430
+  label: 能所引生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-48
+    span:
+    - body
+    - 9495
+    - 9495
+  label: 緣起得名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-49
+    span:
+    - body
+    - 9643
+    - 9643
+  label: 五性各別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-50
+    span:
+    - body
+    - 9745
+    - 9745
+  label: 三時教相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-51
+    span:
+    - body
+    - 10050
+    - 10050
+  label: 定有七名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-52
+    span:
+    - body
+    - 10429
+    - 10429
+  label: 聞等三慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-53
+    span:
+    - body
+    - 10785
+    - 10785
+  label: 四重出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-54
+    span:
+    - body
+    - 11000
+    - 11000
+  label: 故不故思
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-55
+    span:
+    - body
+    - 11173
+    - 11173
+  label: 增不增業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-56
+    span:
+    - body
+    - 11370
+    - 11370
+  label: 定不定業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-57
+    span:
+    - body
+    - 11601
+    - 11601
+  label: 三業四業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-58
+    span:
+    - body
+    - 11955
+    - 11955
+  label: 定不四業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-59
+    span:
+    - body
+    - 12019
+    - 12019
+  label: 决定三業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-60
+    span:
+    - body
+    - 12224
+    - 12224
+  label: 五種故思
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-61
+    span:
+    - body
+    - 12504
+    - 12504
+  label: 福等三業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-62
+    span:
+    - body
+    - 12700
+    - 12700
+  label: 卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0036_D_002-mulu-63
+    span:
+    - body
+    - 12700
+    - 12700
+  label: 標目
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 13227
+  label: 畧述法相義卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 四十一位
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-2
+    span:
+    - body
+    - 26
+    - 26
+  label: 十住位次
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-3
+    span:
+    - body
+    - 368
+    - 368
+  label: 十行位次
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-4
+    span:
+    - body
+    - 802
+    - 802
+  label: 十向位次
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-5
+    span:
+    - body
+    - 1520
+    - 1520
+  label: 十地位次
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-6
+    span:
+    - body
+    - 1870
+    - 1870
+  label: 妙覺果滿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-7
+    span:
+    - body
+    - 2413
+    - 2413
+  label: 入等三心
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-8
+    span:
+    - body
+    - 2486
+    - 2486
+  label: 四加行位
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-9
+    span:
+    - body
+    - 2956
+    - 2956
+  label: 真相見道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-10
+    span:
+    - body
+    - 4307
+    - 4307
+  label: 資等五位
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-11
+    span:
+    - body
+    - 4486
+    - 4486
+  label: 三大僧󷑜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-12
+    span:
+    - body
+    - 4761
+    - 4761
+  label: 十波羅蜜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-13
+    span:
+    - body
+    - 5284
+    - 5284
+  label: 三波羅蜜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-14
+    span:
+    - body
+    - 5540
+    - 5540
+  label: 㓛無㓛用
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-15
+    span:
+    - body
+    - 5723
+    - 5723
+  label: 遍等三性
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-16
+    span:
+    - body
+    - 6142
+    - 6142
+  label: 三性觀行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-17
+    span:
+    - body
+    - 6308
+    - 6308
+  label: 伏斷次敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-18
+    span:
+    - body
+    - 6648
+    - 6648
+  label: 故意方行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-19
+    span:
+    - body
+    - 6773
+    - 6773
+  label: 永滅不行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-20
+    span:
+    - body
+    - 6949
+    - 6949
+  label: 頓漸二悟
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-21
+    span:
+    - body
+    - 7105
+    - 7105
+  label: 智增悲增
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-22
+    span:
+    - body
+    - 7197
+    - 7197
+  label: 二種生󷫖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-23
+    span:
+    - body
+    - 7546
+    - 7546
+  label: 二生󷫖位
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-24
+    span:
+    - body
+    - 7706
+    - 7706
+  label: 鏡智心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-25
+    span:
+    - body
+    - 7967
+    - 7967
+  label: 平等心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-26
+    span:
+    - body
+    - 8130
+    - 8130
+  label: 察智心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-27
+    span:
+    - body
+    - 8324
+    - 8324
+  label: 成智心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-28
+    span:
+    - body
+    - 8435
+    - 8435
+  label: 妙平初起
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-29
+    span:
+    - body
+    - 8660
+    - 8660
+  label: 鏡事初起
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-30
+    span:
+    - body
+    - 8945
+    - 8945
+  label: 初地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-31
+    span:
+    - body
+    - 9267
+    - 9267
+  label: 二地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-32
+    span:
+    - body
+    - 9438
+    - 9438
+  label: 三地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-33
+    span:
+    - body
+    - 9628
+    - 9628
+  label: 四地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-34
+    span:
+    - body
+    - 9942
+    - 9942
+  label: 五地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-35
+    span:
+    - body
+    - 10037
+    - 10037
+  label: 六地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-36
+    span:
+    - body
+    - 10147
+    - 10147
+  label: 七地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-37
+    span:
+    - body
+    - 10288
+    - 10288
+  label: 八地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-38
+    span:
+    - body
+    - 10490
+    - 10490
+  label: 九地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-39
+    span:
+    - body
+    - 10727
+    - 10727
+  label: 十地所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-40
+    span:
+    - body
+    - 10834
+    - 10834
+  label: 金剛所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-41
+    span:
+    - body
+    - 10935
+    - 10935
+  label: 𭫸󷑆所棄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-42
+    span:
+    - body
+    - 11023
+    - 11023
+  label: 十種真如
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-43
+    span:
+    - body
+    - 11328
+    - 11328
+  label: 依詮癈詮
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-44
+    span:
+    - body
+    - 11382
+    - 11382
+  label: 變化身土
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-45
+    span:
+    - body
+    - 11588
+    - 11588
+  label: 長時暫變
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-46
+    span:
+    - body
+    - 11700
+    - 11700
+  label: 自受用土
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-47
+    span:
+    - body
+    - 11815
+    - 11815
+  label: 他受用土
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-48
+    span:
+    - body
+    - 11980
+    - 11980
+  label: 有邊無邊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-49
+    span:
+    - body
+    - 12107
+    - 12107
+  label: 自性身土
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-50
+    span:
+    - body
+    - 12223
+    - 12223
+  label: 摩醯首羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-51
+    span:
+    - body
+    - 12505
+    - 12505
+  label: 三身成道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-52
+    span:
+    - body
+    - 12662
+    - 12662
+  label: 三種常住
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-53
+    span:
+    - body
+    - 12753
+    - 12753
+  label: 淨八識聚
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0036_D_003-mulu-54
+    span:
+    - body
+    - 12931
+    - 12931
+  label: 五重唯識
+  type: mulu
+  level: 1
+hash: sha256:2556e8a0d27aa43e0d18b3069c0b962540cdc26e0a493eeee25e51b2ad44b9cc

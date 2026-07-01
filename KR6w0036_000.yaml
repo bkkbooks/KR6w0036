@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR6w0036/d/v1/juan/0
+seq: 0
+front:
+  text: 重刻法相義序性相不異譬如水與波始無二致矣今學者不能推詳其本真紛然以自相是非如此者天下頗爾茲有良灮和尚性相圜通理智妙𨔶親於唯識論疏之中採集綱要勒作三卷目之曰略述法相義豈啻習法相者之為筌罤而已哉抑亦學法性者之為龜鑑也舊版既在武陵書肆近義山照公訂正重鏤梓而請余序之余不敏豈設能之雖然面遇此勝因何不喜而且讚哉終以所謂性相不異冠其卷𩠐冀使後學者於斯二門無惑矣貞享三年丙寅孟秋武陵沙門守拙書于洛陽之寓舍略述法相義卷上標目八識大㫖現等三量相等四分自共二相三種分別諸識所依諸識生緣有覆無記無覆無記四無記種善等三性善等界繫諸識三性六位心所心所俱起王所相應諸識界繫苦等五受諸識受俱五果體相賴耶三相我法二執煩惱所知能遍計識
+  hash: sha256:55db4df7ebf49c74e05c6e8d56541b86222e8503781edb2c801affd00a1ca0ed
+  markers:
+  - {type: 序, offset: 0, content: 序, id: KR6w0036_D_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 195, content: 卷上, id: KR6w0036_D_000-mulu-2, level: '1'}
+  - {type: 其他, offset: 195, content: 標目, id: KR6w0036_D_000-mulu-3, level: '2'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略述法相義
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D36/D36n8895.xml
+    old_id: D36n8895
+hash: sha256:8b320ae06f7f8adcf6a8e604fb17285ee23645cfd73c1eba84f437edb15dd78a
